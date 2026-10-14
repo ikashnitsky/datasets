@@ -282,6 +282,10 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 ### Health
 
 - [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.gov/nchs/nhanes/index.html) - National survey for adults and children with various health-related questions
+- [Global Survey of School Meal Programs](https://gcnf.org/survey-data/) - school meals survey across many countries
+   - Years: 2019-present; Access: Public
+   - Geography: Global (167 countries); Units of observation: Country and school meal program; Frequency: Every 2-3 years; Implementer: Global Child Nutrition Foundation
+   - See [A comprehensive and standardized dataset on school feeding activities worldwide: The Global Survey of School Meal Programs](https://doi.org/10.1016/j.dib.2026.113018) 
 
 ---
 
