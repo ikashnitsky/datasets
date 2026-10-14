@@ -167,7 +167,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - Free to download the full data, but it is really big! Limited number of free API pulls per day
 - [Metadata on NBER articles](https://www.nber.org/research/data/nber-working-papers-and-chapters-metadata) 
   - Includes information like authors, affiliations, and abstracts
-- [Economics PhD Placements](https://www.econphdplacements.com/) - placements of 18k+ economics PhDs from from 82 programs over 1990-2026
+- [Economics PhD Placements](https://www.econphdplacements.com/) - placements of 18k+ economics PhDs from 82 programs over 1990-2026
 - [Economics Graduates North-America 1997-2017 with RePEc handles and Scopus IDs](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ADSCLU)
 - [Gender composition by academic field](https://edmond.mpg.de/dataset.xhtml?persistentId=doi:10.17617/3.BHU4FY)
   - Since 1950, based on estimated name from publications
@@ -232,7 +232,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 ---
 
 ### Government
-- [LocalView](https://www.localview.net/) - transcripts of local government meetings that were uploaded to YoutTube
+- [LocalView](https://www.localview.net/) - transcripts of local government meetings that were uploaded to YouTube
 - [Voteview](https://voteview.com/) - how everyone in Congress has voted throughout all of US history as well as an ideology score for everyone
 - [Visits by Foreign Leaders and Heads of State](https://github.com/HistoryAtState/visits) - Every visit of a foreign head of state to the US President (or VP if President was indisposed/abroad) from 1874-2020
 - [CongressInData](https://www.congressindata.com/) - For Congress members between 2005-2015, it provides information on social networks, voting, etc.
@@ -267,7 +267,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Chicago Business Registrations](https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses-Current-Active/uupf-x98q/about_data) - geocoded business licenses with business name, date of expiration, etc.
 - [Business Dynamic Statistics](https://www.census.gov/programs-surveys/bds.html) - Annual measures of business dynamics - job creation and destruction, establishment births and deaths, firm startups and shutdowns by establishment and firm characteristics. Also available for specific types of firms/measures: [Patenting Firms](https://www.census.gov/data/experimental-data-products/bds-patenting-firms.html), [High Growth Firms](https://www.census.gov/data/experimental-data-products/bds-high-growth.html), [Goods Traders](https://www.census.gov/data/experimental-data-products/bds-goods-traders.html), [High Tech Industries](https://www.census.gov/data/experimental-data-products/bds-high-tech.html), [Single-Unit Firms with Revenue](https://www.census.gov/data/experimental-data-products/bds-single-unit.html), [Human Capital](https://www.census.gov/data/experimental-data-products/bds-human-capital.html), [Coastal Counties](https://www.census.gov/data/experimental-data-products/bds-coastal-counties.html).
 - [Dispersion Statistics on Productivity (DiSP)](https://www.census.gov/data/experimental-data-products/dispersion-statistics-on-productivity.html) - within-industry measures of productivity dispersion. Covers every five years from 1987-2017 by 4-digit NAICS for manufacturing and retail sectors.
-- [Business Trends and Outlook Survey (BTOS)](https://www.census.gov/data/experimental-data-products/business-trends-and-outlook-survey.html) high-frequency, nationally representative data on U.S. employer businesses. Collected starting September 11, 2023. Data released every 2 weeks by NACIS sector, state, and 25 most populous MSAs.
+- [Business Trends and Outlook Survey (BTOS)](https://www.census.gov/data/experimental-data-products/business-trends-and-outlook-survey.html) high-frequency, nationally representative data on U.S. employer businesses. Collected starting September 11, 2023. Data released every 2 weeks by NAICS sector, state, and 25 most populous MSAs.
 
 ---
 
@@ -295,7 +295,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - Years: 2018-present. Has address and price paid.
 - [Tract-level home price indices](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp2101.aspx)
   - Years: 1989-2021
-  - From [Larson and Contat (2022)](A Flexible Method of House Price Index Construction using Repeat-Sales Aggregates)
+  - From [A Flexible Method of House Price Index Construction using Repeat-Sales Aggregates](https://onlinelibrary.wiley.com/doi/full/10.1111/1540-6229.12474)
  
 ---
 
