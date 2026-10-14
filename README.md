@@ -7,7 +7,7 @@ This is a compilation of free datasets that I hope can be useful to students, pr
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Temperature](#temperature), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of Living](#inflation-and-cost-of-living), [Working](#working), [Politics and voting](#politics-and-voting), [Health](#health), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Temperature](#temperature), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of Living](#inflation-and-cost-of-living), [Working](#working), [Politics and voting](#politics-and-voting), [States, conflict and regimes](#states-conflict-and-regimes), [Health](#health), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography)
 
 ---
 
@@ -276,6 +276,25 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [NYT's Presidential precinct data for the 2024 U.S. general election](https://github.com/nytimes/presidential-precinct-map-2024)
    - See also this [map](https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html)
 - [North Carolina voter registration data](https://www.ncsbe.gov/results-data/voter-registration-data)
+
+---
+
+### States, conflict and regimes
+
+- [Interstate System Dataset (ISD), version 2.1](https://doi.org/10.7910/DVN/GFF9WN) - All independent states since 1816, a wider list than the Correlates of War one
+  - Years: 1816-2016; Access: Public (CC0)
+  - One row per state, with entry and exit dates and how the state ended (conquest, unification, dissolution, etc.)
+- [Abramson (2017) replication data](https://doi.org/10.7910/DVN/9XBBHZ) - European states from 1100 to 1790, with their territory and when they ended
+  - Years: 1100-1790; Access: Public (CC0)
+  - From [The Economic Origins of the Territorial State](https://doi.org/10.1017/S0020818316000308)
+- [Political Instability Task Force (PITF) State Failure Problem Set](https://www.systemicpeace.org/inscrdata.html) - Onsets and ends of ethnic wars, revolutionary wars, adverse regime changes and genocides
+  - Years: 1955-2018; Access: Free download, cite the source, no redistribution without permission
+- [Polity5](https://www.systemicpeace.org/inscrdata.html) - Regime scores for independent states with more than 500,000 people
+  - Years: 1800-2018; Access: Free download
+- [V-Dem](https://www.v-dem.net/data/the-v-dem-dataset/) - Hundreds of indicators of democracy and regime characteristics, by country and year
+  - Years: 1789-present; Access: Public
+- [CShapes 2.0](https://icr.ethz.ch/data/cshapes/) - Borders and capitals of states and dependent territories, as maps
+  - Years: 1886-2019 (Europe from 1816); Access: Public (CC BY-NC-SA 4.0)
 
 ---
 
