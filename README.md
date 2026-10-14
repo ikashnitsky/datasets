@@ -7,7 +7,7 @@ This is a compilation of free datasets that I hope can be useful to students, pr
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Temperature](#temperature), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and voting](#politics-and-voting), [Health](#health), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography), [States, conflict and regimes](#states-conflict-and-regimes)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Temperature](#temperature), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of Living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and voting](#politics-and-voting), [Health](#health), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography), [States, conflict, and regimes](#states-conflict-and-regimes)
 
 ---
 
@@ -146,7 +146,6 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - Years: 2009-2019
 - [Common Core of Data](https://nces.ed.gov/ccd/ccddata.asp) - K-12 school- and district-level data 
 - You can access a lot of different datasets, such as IPEDS and CCD, using Urban Institute's [educationdata](https://educationdata.urban.org/documentation/), including R and Stata packages.
-- [NERD$](https://edunomicslab.org/nerds/) - K-12 nationwide per pupil spending by school, nationwide
 - [HERI](https://heri.ucla.edu/heri-data-archive/) - Detailed college freshman, senior, and faculty surveys
   - Years vary.  Some of data is publicly available; rest requires agreement.
 - [Data on where colleges graduates go after graduating](https://www.openicpsr.org/openicpsr/project/170381/version/V3/view)
@@ -353,7 +352,7 @@ Lidar
 
 ---
 
-### States, conflict and regimes
+### States, conflict, and regimes
 
 - [Interstate System Dataset (ISD), version 2.1](https://doi.org/10.7910/DVN/GFF9WN) - All independent states since 1816, a wider list than the Correlates of War one
   - Years: 1816-2016; Access: Public (CC0)
