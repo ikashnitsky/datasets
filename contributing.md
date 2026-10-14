@@ -14,6 +14,8 @@ You can suggest a new dataset or point out an error, broken link, etc. by:
 
 I will review and decide if I want to include the change, but no guarantees.
 
+People can use the information you contribute in their own research papers, etc. 
+
 ### Sample entry
 
 - [Dataset name](https://link-to-data) - One-line description of what it contains
@@ -24,7 +26,7 @@ I will review and decide if I want to include the change, but no guarantees.
 Note that only the first line is required
 
 ### License
-This repo is under CC0 1.0. By contributing, you agree that your contribution is released under the same terms.
 
+This repo is under CC0 1.0. By contributing, you agree that your contribution is released under the same terms.
 
 
