@@ -3,7 +3,7 @@
 ### What belongs here
 
 Data that is:
-- Useful for research, teaching, or data visualization. Preferably applied micro-related, but doesn't always have to be
+- Useful for research, teaching, or data visualization.
 - Free. And preferably publicly available, but a free data use agreement is also fine
 
 ### Ways to contribute
