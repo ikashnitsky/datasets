@@ -379,6 +379,14 @@ Lidar
  
 ---
 
+### Macroeconomics
+
+- [World Macro-Financial Dataset](https://acamous.github.io/macro_financial_dataset/) - Data for many countries on credit, GDP, equity prices, bond yields and consumer prices
+  - Years: 1950-2025; 49 countries; Frequency: quarterly
+  - From [World Cycles Revisited: Diverging Trends in Prices and Quantities](https://www.banque-france.fr/en/publications-and-statistics/publications/world-cycles-revisited-diverging-trends-prices-and-quantities)
+
+---
+
 Disclaimer: This site may contain errors and in no way do we guarantee the accuracy of the referenced data. In no event will we be liable for any loss or damage.
 
 <!-- 
