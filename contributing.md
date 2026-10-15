@@ -8,7 +8,9 @@ Data that is:
 
 ### Ways to contribute
 
-You can suggest a new dataset or point out an error, broken link, etc. by:
+You can suggest a new dataset, point out an error, broken link, etc. It is also very helpful to help fill in the information on existing entries, especially ones that are missing the one-line description.
+
+You can contribute by:
 - Opening a [pull request](https://github.com/toddrjones/datasets/pulls) with your suggestion
 - Emailing me
 
@@ -18,12 +20,12 @@ People can use the information you contribute in their own research papers, etc.
 
 ### Sample entry
 
+Please include at the least the first line of this example, and, preferably more:
+
 - [Dataset name](https://link-to-data) - One-line description of what it contains
   - Years: 1990-present; Access: Public
   - Unit of observation, geography, notable variables, quirks, how it links to other data, etc.
   - From [Paper that introduced the data](https://link-to-paper)
-
-Note that only the first line is required
 
 ### License
 
