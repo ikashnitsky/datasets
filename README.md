@@ -1,5 +1,5 @@
 # Free Datasets for Social Science Research
-This is a compilation of free datasets that I hope can be useful to students, professors, and others for research, data visualization, etc. Most of the datasets are publicly available, but some aren't and require data agreements. If you have any changes, additions, or comments, please [contribute](https://github.com/toddrjones/datasets/blob/main/contributing.md)!
+This is a compilation of free datasets that I hope can be useful to students, professors, and others for research, data visualization, etc. Most of the datasets are publicly available, but some aren't and require data agreements. If you have any additions (including new datasets or filling in details on existing entries), changes, or comments, please [contribute](https://github.com/toddrjones/datasets/blob/main/contributing.md)!
 
  \- [Todd Jones](https://www.toddrjones.com/)
 
@@ -393,7 +393,7 @@ Lidar
 
 ---
 
-Disclaimer: This site may contain errors and in no way do we guarantee the accuracy of the referenced data. In no event will we be liable for any loss or damage.
+Disclaimer: This site may contain errors and in no way do we guarantee the accuracy or quality of the referenced data. In no event will we be liable for any loss or damage.
 
 <!-- 
 <details>
