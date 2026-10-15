@@ -328,7 +328,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ### Environment and energy
 
-- [ERCOT](ercot.com/gridinfo/load/load_hist/index.html) - hourly electricity load data in Texas
+- [ERCOT](http://ercot.com/gridinfo/load/load_hist/index.html) - hourly electricity load data in Texas
   - 1995-present. ERCOT is the largest provider in the state
 - [Gridded Environmental Impacts Frame (Gridded EIF)](https://www.census.gov/data/experimental-data-products/gridded-eif.html) - detailed demographic counts by age, sex, race and ethnicity and data for environmental hazards on a 0.01 degree grid of the United States. 
 
