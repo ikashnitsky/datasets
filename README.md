@@ -154,7 +154,10 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Median earnings four years after graduation by university-major](https://www.theheagroup.com/blog/earnings-test-data)
   - Graduates from 2017-18 and 2018-19. Access: public. A university-major is only included if there are at least 16 graduates.
   - From the Department of Education; this version is made available by the HEA Group.
- - [Post-Secondary Employment Outcomes (PSEO)](https://lehd.ces.census.gov/data/pseo_experimental.html) Earnings and employment outcomes for college and university graduates by degree level, degree major, post-secondary institution, and state of institution. 
+- [Post-Secondary Employment Outcomes (PSEO)](https://lehd.ces.census.gov/data/pseo_experimental.html) Earnings and employment outcomes for college and university graduates by degree level, degree major, post-secondary institution, and state of institution.
+- [Educator Compensation Dashboard](https://www.sreb.org/educator-compensation-dashboard) - Southern state regional database of annual educator compensation and workforce data on K-12 education
+  - Years: 2016 - present; Access: Public
+  - This dashboard is compiled by scraping and pulling publicly available administrative data from state and national sources
 
 <!-- [University enrollments](https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/P0D1KE&version=1.0) -->
 
