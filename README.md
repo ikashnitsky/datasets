@@ -1,4 +1,4 @@
-# Free Datasets for Social Science
+# Free Datasets for Social Science Research
 This is a compilation of free datasets that I hope can be useful to students, professors, and others for research, data visualization, etc. Most of the datasets are publicly available, but some aren't and require data agreements. If you have any changes, additions, or comments, please [contribute](https://github.com/toddrjones/datasets/blob/main/contributing.md)!
 
  \- [Todd Jones](https://www.toddrjones.com/)
