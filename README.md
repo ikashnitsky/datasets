@@ -281,6 +281,14 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 ### Health
 
 - [National Health and Nutrition Examination Survey (NHANES)](https://www.cdc.gov/nchs/nhanes/index.html) - National survey for adults and children with various health-related questions
+- [National Health Interview Survey](https://nhis.ipums.org/nhis/)
+- [Medical Expenditure Panel Survey](https://meps.ipums.org/meps/)
+- [Global Health Surveys](https://globalhealth.ipums.org/)
+- [National Immunization Survey](https://www.cdc.gov/nis/about/index.html)
+- [National Survey of Children's Health](https://www.census.gov/programs-surveys/nsch.html)
+- [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/index.html)
+- [Health and Retirement Survey](https://hrs.isr.umich.edu/)
+- [Youth Risk Behavioral Surveillance System](https://www.cdc.gov/yrbs/index.html)
 - [Global Survey of School Meal Programs](https://gcnf.org/survey-data/) - school meals survey across many countries
    - Years: 2019-present; Access: Public
    - Geography: Global (167 countries); Units of observation: Country and school meal program; Frequency: Every 2-3 years; Implementer: Global Child Nutrition Foundation
