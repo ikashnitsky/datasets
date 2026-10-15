@@ -292,6 +292,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Behavioral Risk Factor Surveillance System](https://www.cdc.gov/brfss/index.html)
 - [Health and Retirement Survey](https://hrs.isr.umich.edu/)
 - [Youth Risk Behavioral Surveillance System](https://www.cdc.gov/yrbs/index.html)
+- [National Health and Aging Trends Study (NHATS)](https://www.nhats.org/nhats)
 - [Global Survey of School Meal Programs](https://gcnf.org/survey-data/) - school meals survey across many countries
    - Years: 2019-present; Access: Public
    - Geography: Global (167 countries); Units of observation: Country and school meal program; Frequency: Every 2-3 years; Implementer: Global Child Nutrition Foundation
