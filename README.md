@@ -238,6 +238,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Voteview](https://voteview.com/) - how everyone in Congress has voted throughout all of US history as well as an ideology score for everyone
 - [Visits by Foreign Leaders and Heads of State](https://github.com/HistoryAtState/visits) - Every visit of a foreign head of state to the US President (or VP if President was indisposed/abroad) from 1874-2020
 - [CongressInData](https://www.congressindata.com/) - For Congress members between 2005-2015, it provides information on social networks, voting, etc.
+- [Quality of Government Expert Survey](https://www.unesco.org/en/world-media-trends/qog-quality-government-data) - survey of around 1k experts on 117 countries about government quality
 
 ---
 
@@ -327,6 +328,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 
 ### Beliefs and values
 - [World Values Survey](https://www.worldvaluessurvey.org/WVSContents.jsp) - Worldwide survey on beliefs and values
+- [European Social Survey](https://www.europeansocialsurvey.org/) - European survey on attitudes, values, etc.
 
 ---
 
