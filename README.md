@@ -275,6 +275,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 ---
 
 ### Politics and voting
+- [Small-Area Global Elections (SAGE) Dataset](https://noahdasanaike.github.io/sage.html) - Granular, geocoded voting returns for 134 countries
 - [MIT Election Lab](https://electionlab.mit.edu/data) - Collection of various US election results
 - [NYT's Presidential precinct data for the 2024 U.S. general election](https://github.com/nytimes/presidential-precinct-map-2024)
    - See also this [map](https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html)
