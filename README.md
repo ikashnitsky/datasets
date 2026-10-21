@@ -402,6 +402,8 @@ Lidar
 
 ### Misc.
 
+- [Gapminder](https://www.gapminder.org/data/) - various longitudinal, global datasets covering things like life expectancy, GDP, fertility, life expectancy, and child mortality
+- [Our World in Data](https://ourworldindata.org/search) - many datasets covering many topics such as health, education, environment, war, demographics, and democracy. Generally global in nature
 - [Item Response Warehouse](https://itemresponsewarehouse.org/) - billions of item responses from thousands of datasets. Accessible with API
 - [Global Flourishing Study](https://globalflourishingstudy.com/overview) - 22 countries, >200k respondents - questions on happiness, health, meaning, character, relationships, and financial topics
 
