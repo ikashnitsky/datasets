@@ -7,7 +7,7 @@ This is a compilation of free datasets that I hope can be useful to students, pr
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Temperature](#temperature), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and voting](#politics-and-voting), [Health, public health, and epidemiology](#health-public-health-and-epidemiology), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography), [States, conflict, and regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Temperature](#temperature), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and voting](#politics-and-voting), [Health, public health, and epidemiology](#health-public-health-and-epidemiology), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography), [States, conflict, and regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Personal Finance](#personal-finance), [Misc.](#misc)
 
 ---
 
@@ -391,6 +391,12 @@ Lidar
 - [CShapes 2.0](https://icr.ethz.ch/data/cshapes/) - Borders and capitals of states and dependent territories, as maps
   - Years: 1886-2019 (Europe from 1816); Access: Public (CC BY-NC-SA 4.0)
  
+---
+
+### Personal Finance
+
+- [Survey of Consumer Finances](https://www.federalreserve.gov/econres/scfindex.htm) - survey on personal finances such as income, balance sheets. Includes demographics 
+
 ---
 
 ### Macroeconomics
