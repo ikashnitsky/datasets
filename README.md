@@ -313,6 +313,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Tract-level home price indices](https://www.fhfa.gov/PolicyProgramsResearch/Research/Pages/wp2101.aspx)
   - Years: 1989-2021
   - From [A Flexible Method of House Price Index Construction using Repeat-Sales Aggregates](https://onlinelibrary.wiley.com/doi/full/10.1111/1540-6229.12474)
+- [Zillow Housing Data](https://www.zillow.com/research/data/) - various datasets on topics including home and rental values, market heat index, new construction, price, cuts, and days on market
  
 ---
 
