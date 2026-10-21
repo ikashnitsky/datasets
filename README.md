@@ -7,7 +7,7 @@ This is a compilation of free datasets that I hope can be useful to students, pr
 
 ### Contents
 
-Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Temperature](#temperature), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and voting](#politics-and-voting), [Health, public health, and epidemiology](#health-public-health-and-epidemiology), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography), [States, conflict, and regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Personal Finance](#personal-finance), [Misc.](#misc)
+Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic History](#us-censuses-and-economic-history), [Household Surveys](#household-surveys), [Mobility and Migration](#mobility-and-migration), [Names](#names), [Injury and death](#injury-and-death), [Crashes and traffic](#crashes-and-traffic), [Education](#education), [Academia](#academia), [Weather](#weather), [Family](#family), [Sports](#sports), [Religion](#religion), [Government](#government), [Inflation and cost of living](#inflation-and-cost-of-living), [Working](#working), [Businesses](#businesses), [Politics and voting](#politics-and-voting), [Health, public health, and epidemiology](#health-public-health-and-epidemiology), [Real estate](#real-estate), [Patents](#patents), [Social networks](#social-networks), [Beliefs and values](#beliefs-and-values), [Law](#law), [Environment and energy](#environment-and-energy), [Shopping](#shopping), [Maps and geography](#maps-and-geography), [States, conflict, and regimes](#states-conflict-and-regimes), [Macroeconomics](#macroeconomics), [Personal Finance](#personal-finance), [Misc.](#misc)
 
 ---
 
@@ -181,7 +181,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   
 --- 
 
-### Temperature
+### Weather
 
 - [PRISM](https://prism.oregonstate.edu/) - Gridded weather data, including temperature and precipitation
   - Years: 1981-present (daily), 1895-present (monthly)
