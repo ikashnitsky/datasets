@@ -178,6 +178,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - Since 1950, based on estimated name from publications
 - [PhD origins of academic faculty](https://larremorelab.github.io/us-faculty/) - where hundreds of thousands of professors got their PhDs, by university and field
    - From [Quantifying hierarchy and dynamics in US faculty hiring and retention](https://www.nature.com/articles/s41586-022-05222-x)
+- [Scholarly Migration Database](https://www.scholarlymigration.org) - migration of the academics sourced from bibliometric affiliation data
   
 --- 
 
