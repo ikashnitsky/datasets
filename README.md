@@ -178,6 +178,7 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - Since 1950, based on estimated name from publications
 - [PhD origins of academic faculty](https://larremorelab.github.io/us-faculty/) - where hundreds of thousands of professors got their PhDs, by university and field
    - From [Quantifying hierarchy and dynamics in US faculty hiring and retention](https://www.nature.com/articles/s41586-022-05222-x)
+- [Scholarly Migration Database](https://www.scholarlymigration.org) - migration of the academics sourced from bibliometric affiliation data
   
 --- 
 
@@ -302,10 +303,18 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Global Survey of School Meal Programs](https://gcnf.org/survey-data/) - school meals survey across many countries
    - Years: 2019-present; Access: Public
    - Geography: Global (167 countries); Units of observation: Country and school meal program; Frequency: Every 2-3 years; Implementer: Global Child Nutrition Foundation
-   - See [A comprehensive and standardized dataset on school feeding activities worldwide: The Global Survey of School Meal Programs](https://doi.org/10.1016/j.dib.2026.113018)
+   - See [A comprehensive and standardized dataset on school feeding activities worldwide: The Global Survey of School Meal Programs](https://doi.org/10.1016/j.dib.2026.113018) 
 - [UN World Population Prospects](https://population.un.org/wpp) - demographic estimates for every UN recognized country of the world
   - Years: 1950-2023; forecast for 2024-2100; Access: Public
   - Geography: Global (237 countries and territories)
+- [Human Mortality Database](https://www.mortality.org) - gold-standard demographic database
+  - Years: varies by countries, Sweden from 1751
+  - Access: free account registration
+  - Geography: a selection of countries with high quality vital statistics, [see](https://www.mortality.org/Data/DataAvailability)
+- [Human Fertility Database](https://www.humanfertility.org) - gold-standard demographic database
+  - Years: varies by countries, Sweden from 1751
+  - Access: free account registration
+  - Geography: a selection of countries with high quality vital statistics, [see](https://www.humanfertility.org/Data/DataAvailabilityShort)
 
 ---
 
@@ -370,6 +379,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Historical Topographic Maps](https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past)
   - Maps from 1884-2006
 - [Elevation data](https://cran.r-project.org/web/packages/elevatr/index.html) - R package to get elevation data from a variety of sources
+- [Historical maps of Denmark](https://www.kb.dk/en/find-materials/collections/map-collection)
+  - Interactive [exploration of the archive](https://www.oldmapsonline.org/en)
 
 <!--Rivers
 Lidar
