@@ -310,6 +310,10 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
   - Years: varies by countries, Sweden from 1751
   - Access: free account registration
   - Geography: a selection of countries with high quality vital statistics, [see](https://www.mortality.org/Data/DataAvailability)
+- [Human Fertility Database](https://www.humanfertility.org) - gold-standard demographic database
+  - Years: varies by countries, Sweden from 1751
+  - Access: free account registration
+  - Geography: a selection of countries with high quality vital statistics, [see](https://www.humanfertility.org/Data/DataAvailabilityShort)
 
 ---
 
