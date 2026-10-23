@@ -378,6 +378,8 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
 - [Historical Topographic Maps](https://www.usgs.gov/programs/national-geospatial-program/historical-topographic-maps-preserving-past)
   - Maps from 1884-2006
 - [Elevation data](https://cran.r-project.org/web/packages/elevatr/index.html) - R package to get elevation data from a variety of sources
+- [Historical maps of Denmark](https://www.kb.dk/en/find-materials/collections/map-collection)
+  - Interactive [exploration of the archive](https://www.oldmapsonline.org/en)
 
 <!--Rivers
 Lidar
