@@ -303,6 +303,13 @@ Skip to: [Time Use](#time-use), [Crime](#crime), [US Censuses and Economic Histo
    - Years: 2019-present; Access: Public
    - Geography: Global (167 countries); Units of observation: Country and school meal program; Frequency: Every 2-3 years; Implementer: Global Child Nutrition Foundation
    - See [A comprehensive and standardized dataset on school feeding activities worldwide: The Global Survey of School Meal Programs](https://doi.org/10.1016/j.dib.2026.113018) 
+- [UN World Population Prospects](https://population.un.org/wpp) - demographic estimates for every UN recognized country of the world
+  - Years: 1950-2023; forecast for 2024-2100; Access: Public
+  - Geography: Global (237 countries and territories)
+- [Human Mortality Database](https://www.mortality.org) - gold-standard demographic database
+  - Years: varies by countries, Sweden from 1751
+  - Access: free account registration
+  - Geography: a selection of countries with high quality vital statistics, [see](https://www.mortality.org/Data/DataAvailability)
 
 ---
 
